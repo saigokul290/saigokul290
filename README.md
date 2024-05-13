@@ -2,7 +2,7 @@
 
 I am a passionate computer science student from Bangalore, India, currently pursuing my B.Tech in Computer Science & Engineering at The Oxford College of Engineering. I have a strong interest in artificial intelligence and data science, and I love exploring new technologies and working on innovative projects.
 
-- 🔭 I’m currently working on cloud failure prediction models and AI model integration for cloud connectors.
+- 🔭 I’m currently working on cloud failure prediction models (Internship) and AI model integration for cloud connectors #please find the colloboration under organizations.
 - 🌱 I’m currently learning more about machine learning algorithms and cloud computing.
 - 👯 I’m looking to collaborate on projects related to AI, data science, and cloud computing.
 - 💬 Ask me about machine learning, Python programming, and database management.
