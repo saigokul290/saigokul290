@@ -1,34 +1,26 @@
-##Hi there, I'm Saigokul! 👋
-I am a B.Tech student specializing in Computer Science & Engineering at The Oxford College of Engineering, Bangalore. I am passionate about artificial intelligence and data science, with a keen interest in leveraging technology to solve real-world problems.
+# Hi there, I'm Saigokul kwataganti prakash! 👋
 
-**Location:** Bangalore, India  
-**Email:** saigokulcse2024@gmail.com  
-**Phone:** +91 6360680928  
+I am a passionate computer science student from Bangalore, India, currently pursuing my B.Tech in Computer Science & Engineering at The Oxford College of Engineering. I have a strong interest in artificial intelligence and data science, and I love exploring new technologies and working on innovative projects.
 
+- 🔭 I’m currently working on cloud failure prediction models and AI model integration for cloud connectors.
+- 🌱 I’m currently learning more about machine learning algorithms and cloud computing.
+- 👯 I’m looking to collaborate on projects related to AI, data science, and cloud computing.
+- 💬 Ask me about machine learning, Python programming, and database management.
+- 📫 How to reach me: saigokulcse2024@gmail.com | +91 6360680928
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm also a professional cricketer and have won medals in high jump and sprinting events!
 
-## Work Experience
-**Student Developer Intern (AI)**  
-Acceleron Labs, Bangalore  
-Internship • Oct 2023 - May 2024 (7 months)  
-- Designed AI models for cloud failure prediction, implemented models like Random Forest, ARIMA, CNN, PCA.  
-- Spearheaded cloud failure prediction project using MongoDB.  
-- Researching AI model integration for cloud connectors.  
+### 🚀 My GitHub Stats:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saigokul290&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects not in github(Internship)
-**Cloud Failure Detection**  
-Sep 2023 - May 2024  
-- Analyzed cloud data to predict potential failures and optimize system reliability.  
-- Developed machine learning models to analyze cloud performance metrics and forecast failure times.  
+### 🛠️ Languages and Tools:
 
-**Cloud Connector (Ongoing Research)**  
-Apr 2024 - Present  
-- Engaged in ongoing research on a cloud connector AI model for analyzing and selecting relevant columns in new cloud datasets.  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-
-## Additional Details
-- Playing Professional Cricket: Engaged in professional cricket with notable experience.  
-- Captain of Club and School Cricket Team: Demonstrated leadership skills.  
-- KISA Athlete: Achieved medals in high jump, 100m, and 200m sprinting events.  
-- Involvement in NGO: Contributed through an internship at an NGO, engaged in social impact work.  
-- Toastmasters Activity: Participated in Toastmasters, enhancing communication and public speaking abilities.  
